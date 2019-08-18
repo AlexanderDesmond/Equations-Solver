@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06966cbb-e7a4-4093-96e6-ebe77089ece6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignment1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <marker date="1547961909550" expanded="false" signature="6:153" ph="..." />
+                <marker date="1547961909550" expanded="true" signature="176:15792" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="183:275" ph="/* Custom data type to hold data about the variables, operators, and numbers. ... */" />
+                <marker date="1547961909550" expanded="true" signature="305:774" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="446:768" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="780:851" ph="/* Class for a calculator which solves linear equations. ... */" />
+                <marker date="1547961909550" expanded="true" signature="873:15790" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="1174:1221" ph="/* Default constructor. ... */" />
+                <marker date="1547961909550" expanded="true" signature="1263:1301" ph="/* Main method. ... */" />
+                <marker date="1547961909550" expanded="true" signature="1342:2039" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="1440:1718" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="1742:2017" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="2049:2101" ph="/* Validates some test cases. ... */" />
+                <marker date="1547961909550" expanded="true" signature="2157:3901" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="2318:2451" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="2492:2628" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="2776:2914" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="2994:3116" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="3163:3864" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="3322:3480" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="3702:3850" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="3911:3975" ph="/* Displays the solution to the equation. ... */" />
+                <marker date="1547961909550" expanded="true" signature="4028:4150" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="4160:4255" ph="/* Formats the equation in preparation for easier splitting and solving. ... */" />
+                <marker date="1547961909550" expanded="true" signature="4313:5031" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="4757:5021" ph="/* if (leftResult.Count &gt; 0) ... */" />
+                <marker date="1547961909550" expanded="true" signature="5041:5125" ph="/* Splits the equation into its left side and its right side. ... */" />
+                <marker date="1547961909550" expanded="true" signature="5162:7160" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="5391:5512" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="5539:5683" ph="/* Console.WriteLine(&quot;Left: &quot; + left + &quot; (&quot; + left.Length + &quot;)&quot;); ... */" />
+                <marker date="1547961909550" expanded="true" signature="6128:7150" ph="/* Little test debug stuff :) ... */" />
+                <marker date="1547961909550" expanded="true" signature="7170:7310" ph="/* Uses the shunting-yard algorithm to create two queues, one to hold each side of the equation, in postfix notat ... */" />
+                <marker date="1547961909550" expanded="true" signature="7424:10658" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="7520:10274" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="7627:10260" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="7797:7936" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="8003:8417" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="8484:9428" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="8983:9199" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="9479:9828" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="9879:10242" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="9963:10179" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="10492:10648" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="10668:10747" ph="/* Initialised an instance of the Character custom type. ... */" />
+                <marker date="1547961909550" expanded="true" signature="10803:11250" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="10876:10963" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="10999:11103" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="11120:11209" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="11260:11306" ph="/* Solves the equation. ... */" />
+                <marker date="1547961909550" expanded="true" signature="11393:12718" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="11556:12708" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="11617:11714" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="11789:12694" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="11860:11985" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="12038:12243" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="12296:12415" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="12468:12676" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="12728:12789" ph="/* Returns the result of the equation. ... */" />
+                <marker date="1547961909550" expanded="true" signature="12827:13255" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="12949:13031" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="13140:13221" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="13265:13311" ph="/* Divides two numbers. ... */" />
+                <marker date="1547961909550" expanded="true" signature="13360:13412" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="13422:13471" ph="/* Multiplies two numbers. ... */" />
+                <marker date="1547961909550" expanded="true" signature="13526:13578" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="13588:13631" ph="/* Adds two numbers. ... */" />
+                <marker date="1547961909550" expanded="true" signature="13680:13733" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="13743:13791" ph="/* Subtracts two numbers. ... */" />
+                <marker date="1547961909550" expanded="true" signature="13843:13896" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="13906:13973" ph="/* Returns true if the input is a variable. ... */" />
+                <marker date="1547961909550" expanded="true" signature="14017:14134" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="14144:14209" ph="/* Returns true if the input is a number. ... */" />
+                <marker date="1547961909550" expanded="true" signature="14248:14306" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="14316:14381" ph="/* Returns true if the input is a number. ... */" />
+                <marker date="1547961909550" expanded="true" signature="14423:14513" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="14523:14591" ph="/* Returns true if the input is an operator. ... */" />
+                <marker date="1547961909550" expanded="true" signature="14634:15119" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="14668:15109" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="15129:15194" ph="/* Returns the precedence of an operator. ... */" />
+                <marker date="1547961909550" expanded="true" signature="15239:15590" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="15273:15580" ph="{...}" />
+                <marker date="1547961909550" expanded="true" signature="15600:15674" ph="/* Converts a string into a number and returns it. ... */" />
+                <marker date="1547961909550" expanded="true" signature="15716:15784" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assignment1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assignment1/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="140" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Assignment1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Assignment1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assignment1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment2/Assignment2.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Assignment1/bin/Debug/Assignment1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment1/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Assignment1/Assignment1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06966cbb-e7a4-4093-96e6-ebe77089ece6" name="Default Changelist" comment="" />
+      <created>1547961829697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547961829697</updated>
+      <workItem from="1547961832716" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="140" y="43" width="1400" height="987" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assignment1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1547961909550" expanded="false" signature="6:153" ph="..." />
+            <marker date="1547961909550" expanded="true" signature="176:15792" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="183:275" ph="/* Custom data type to hold data about the variables, operators, and numbers. ... */" />
+            <marker date="1547961909550" expanded="true" signature="305:774" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="446:768" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="780:851" ph="/* Class for a calculator which solves linear equations. ... */" />
+            <marker date="1547961909550" expanded="true" signature="873:15790" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="1174:1221" ph="/* Default constructor. ... */" />
+            <marker date="1547961909550" expanded="true" signature="1263:1301" ph="/* Main method. ... */" />
+            <marker date="1547961909550" expanded="true" signature="1342:2039" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="1440:1718" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="1742:2017" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="2049:2101" ph="/* Validates some test cases. ... */" />
+            <marker date="1547961909550" expanded="true" signature="2157:3901" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="2318:2451" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="2492:2628" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="2776:2914" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="2994:3116" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="3163:3864" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="3322:3480" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="3702:3850" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="3911:3975" ph="/* Displays the solution to the equation. ... */" />
+            <marker date="1547961909550" expanded="true" signature="4028:4150" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="4160:4255" ph="/* Formats the equation in preparation for easier splitting and solving. ... */" />
+            <marker date="1547961909550" expanded="true" signature="4313:5031" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="4757:5021" ph="/* if (leftResult.Count &gt; 0) ... */" />
+            <marker date="1547961909550" expanded="true" signature="5041:5125" ph="/* Splits the equation into its left side and its right side. ... */" />
+            <marker date="1547961909550" expanded="true" signature="5162:7160" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="5391:5512" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="5539:5683" ph="/* Console.WriteLine(&quot;Left: &quot; + left + &quot; (&quot; + left.Length + &quot;)&quot;); ... */" />
+            <marker date="1547961909550" expanded="true" signature="6128:7150" ph="/* Little test debug stuff :) ... */" />
+            <marker date="1547961909550" expanded="true" signature="7170:7310" ph="/* Uses the shunting-yard algorithm to create two queues, one to hold each side of the equation, in postfix notat ... */" />
+            <marker date="1547961909550" expanded="true" signature="7424:10658" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="7520:10274" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="7627:10260" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="7797:7936" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="8003:8417" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="8484:9428" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="8983:9199" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="9479:9828" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="9879:10242" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="9963:10179" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="10492:10648" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="10668:10747" ph="/* Initialised an instance of the Character custom type. ... */" />
+            <marker date="1547961909550" expanded="true" signature="10803:11250" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="10876:10963" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="10999:11103" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="11120:11209" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="11260:11306" ph="/* Solves the equation. ... */" />
+            <marker date="1547961909550" expanded="true" signature="11393:12718" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="11556:12708" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="11617:11714" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="11789:12694" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="11860:11985" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="12038:12243" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="12296:12415" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="12468:12676" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="12728:12789" ph="/* Returns the result of the equation. ... */" />
+            <marker date="1547961909550" expanded="true" signature="12827:13255" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="12949:13031" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="13140:13221" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="13265:13311" ph="/* Divides two numbers. ... */" />
+            <marker date="1547961909550" expanded="true" signature="13360:13412" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="13422:13471" ph="/* Multiplies two numbers. ... */" />
+            <marker date="1547961909550" expanded="true" signature="13526:13578" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="13588:13631" ph="/* Adds two numbers. ... */" />
+            <marker date="1547961909550" expanded="true" signature="13680:13733" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="13743:13791" ph="/* Subtracts two numbers. ... */" />
+            <marker date="1547961909550" expanded="true" signature="13843:13896" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="13906:13973" ph="/* Returns true if the input is a variable. ... */" />
+            <marker date="1547961909550" expanded="true" signature="14017:14134" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="14144:14209" ph="/* Returns true if the input is a number. ... */" />
+            <marker date="1547961909550" expanded="true" signature="14248:14306" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="14316:14381" ph="/* Returns true if the input is a number. ... */" />
+            <marker date="1547961909550" expanded="true" signature="14423:14513" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="14523:14591" ph="/* Returns true if the input is an operator. ... */" />
+            <marker date="1547961909550" expanded="true" signature="14634:15119" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="14668:15109" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="15129:15194" ph="/* Returns the precedence of an operator. ... */" />
+            <marker date="1547961909550" expanded="true" signature="15239:15590" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="15273:15580" ph="{...}" />
+            <marker date="1547961909550" expanded="true" signature="15600:15674" ph="/* Converts a string into a number and returns it. ... */" />
+            <marker date="1547961909550" expanded="true" signature="15716:15784" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

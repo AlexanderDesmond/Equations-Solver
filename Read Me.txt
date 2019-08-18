@@ -1,0 +1,8 @@
+Assignment 1 by Alex Desmond
+
+Instructions:
+
+1. Open Assignment1/Assignment1/bin/Debug in Command Prompt.
+2. Run program with: Assignment1.exe <input equation as an argument>
+
+This should work, hopefully.
